@@ -1,0 +1,10 @@
+<?xml version="1.0"?>
+<application-state>
+  <context id="">
+    <application id="org.gnome.Nautilus.desktop" open-window-count="0" score="6" last-seen="1523706965"/>
+    <application id="yelp.desktop" open-window-count="0" score="0" last-seen="1524023156"/>
+    <application id="nautilus.desktop" open-window-count="1" score="0" last-seen="1523706958"/>
+    <application id="org.gnome.Terminal.desktop" open-window-count="1" score="1101" last-seen="1524026241"/>
+    <application id="rhythmbox.desktop" open-window-count="0" score="3" last-seen="1523593132"/>
+  </context>
+</application-state>
